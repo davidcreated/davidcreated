@@ -123,5 +123,5 @@ My experience spans **health tech, logistics, fintech, and social systems**, bui
 ---
 
 <p align="center">
-  <b>⚡ Creating smart, scalable, and beautiful Flutter experiences — one widget at a time.</b>
+  <b>⚡ Creating smart, scalable, and beautiful Flutter experiences one widget at a time.</b>
 </p>
