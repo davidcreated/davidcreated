@@ -84,12 +84,12 @@ My experience spans **health tech, logistics, fintech, and social systems**, bui
 ### 🧮 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidcreated&show_icons=true&theme=radical&hide_border=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidcreated&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=davidcreated&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=davidcreated&theme=radical&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcreated&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcreated&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
