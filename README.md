@@ -4,9 +4,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Folorunsho-Roberts%20David&fontSize=55&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20(Mobile%20%26%20Backend)%20%7C%20AI%20Systems%20Engineer&descAlign=50&descAlignY=70&descSize=20" width="100%"/>
-</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davidcreated&style=for-the-badge&color=blueviolet" alt="Profile Views">
