@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/profile.yml"]
+    paths: [".github/workflows/profile.yml", "scripts/**"]
 
 permissions:
   contents: write
@@ -21,6 +21,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      - name: Strip contribution count, stars and forks
+        run: python3 scripts/strip_summary.py
 
       - name: Commit graph
         run: |
