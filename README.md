@@ -1,21 +1,27 @@
-Hi there, I’m David 👋
+<p align="center">
+  <img src="cards/hero.svg" width="100%" alt="David-Paul Folorunsho-Roberts, software engineer building mobile apps in Flutter, Swift and Kotlin">
+</p>
 
-🛠 I am a Software Engineer focused on Flutter, Dart, Swift, Kotlin, and mobile platforms
+<p align="center">
+  <a href="https://mobilebydavid.dev"><img src="cards/tile-1.svg" width="32.5%" alt="Website"></a>
+  <a href="https://github.com/openforge-oss"><img src="cards/tile-2.svg" width="32.5%" alt="OpenForge"></a>
+  <a href="https://github.com/davidcreated?tab=repositories"><img src="cards/tile-3.svg" width="32.5%" alt="Repositories"></a>
+</p>
 
+<p align="center">
+  <img src="cards/activity.svg" width="100%" alt="Contributions per month, streak, active days and busiest day">
+</p>
 
-🎨 Interested in animations, developer tools, systems, and native mobile internals
+<p align="center">
+  <a href="https://github.com/davidcreated/job-agent"><img src="cards/repo-1.svg" width="100%" alt="job-agent"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/davidcreated/hearken"><img src="cards/repo-2.svg" width="100%" alt="hearken"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/davidcreated/claude-toolkit"><img src="cards/repo-3.svg" width="100%" alt="claude-toolkit"></a>
+</p>
 
-✍🏽 I write about what I build and learn
-
-🎙 I share what I know through speaking and teaching, and community events
-
-🪁 Funfact: I always love a good story
-
-
-![matrix](matrix.svg)
-
-<h1 align="center">
-  :smiling_imp:
-</h1>
-
----
+<p align="center">
+  <img src="cards/graph.svg" width="100%" alt="Contribution graph for the last year">
+</p>
