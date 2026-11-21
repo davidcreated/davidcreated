@@ -7,6 +7,6 @@
     {"label": "ORGANISATION", "title": "OpenForge", "sub": "Open source tools", "url": "https://github.com/openforge-oss"},
     {"label": "CODE", "title": "Repositories", "sub": "Everything I ship", "url": "https://github.com/davidcreated?tab=repositories"}
   ],
-  "featured": ["job-agent", "hearken", "claude-toolkit"],
+  "featured": ["job-agent", "hearken"],
   "colors": {"ink": "#0e0e0c", "panel": "#171714", "line": "#262622", "cream": "#f7f6f1", "bone": "#ddddd5", "sage": "#aeae9d", "brand": "#8c8c73", "mute": "#6f6f5c"}
 }

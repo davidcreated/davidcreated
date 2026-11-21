@@ -19,9 +19,5 @@
   <a href="https://github.com/davidcreated/hearken"><img src="cards/repo-2.svg" width="100%" alt="hearken"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/davidcreated/claude-toolkit"><img src="cards/repo-3.svg" width="100%" alt="claude-toolkit"></a>
-</p>
-
-<p align="center">
   <img src="cards/graph.svg" width="100%" alt="Contribution graph for the last year">
 </p>
